@@ -29,6 +29,10 @@
 ## This is a team project of group 5 that includes the following members:
 - Panchani Yash Bhanubhai (YP67225N@pace.edu)
 - Achyut Kumar Panda (ap09204n@pace.edu)
+- Sindhu Nekkanti (sindhunekkanti16@gmail.com)
+- Snehanjani Pati (sp16045n@pace.edu)
+- Nagalakshmi Narra (nn99484n@pace.edu)
+- 
 
 
 
